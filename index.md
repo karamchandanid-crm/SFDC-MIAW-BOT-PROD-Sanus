@@ -6,7 +6,7 @@
 			embeddedservice_bootstrap.init(
 				'00D600000007Dpt',
 				'Github_Sanus_Live_Chat_Messaging_Channel',
-				'https://legrandav.my.site.com/ESWGithubSanusLiveChat1740465772633',
+				'https://legrandav.my.site.com/ESWGithubSanusLiveChat1740467132912',
 				{
 					scrt2URL: 'https://legrandav.my.salesforce-scrt.com'
 				}
@@ -16,4 +16,4 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://legrandav.my.site.com/ESWGithubSanusLiveChat1740465772633/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://legrandav.my.site.com/ESWGithubSanusLiveChat1740467132912/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
